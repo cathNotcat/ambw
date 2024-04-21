@@ -1,0 +1,30 @@
+name: ambw_uts_c14210100
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.3.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/images/oyster.jpeg
+    - lib/images/baconegg.jpg
+    - lib/images/barramundi.jpg
+    - lib/images/chips.jpg
+    - lib/images/kangaroo.jpg
+    - lib/images/parmigiana.jpg
+    - lib/images/tuna.jpg
+    - lib/images/lamington.jpg
+    - lib/images/lamb.jpg
+    - lib/images/corn.jpg
